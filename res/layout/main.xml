@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <Button android:id="@+id/btnSimple"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:text="Ha-jeonghoon's"
+            android:gravity="left|center_vertical"
+            ></Button>
+<WebView android:id="@+id/myWebView"
+         android:layout_width="fill_parent"
+         android:layout_height="fill_parent"
+         ></WebView>
+</LinearLayout>
+
